@@ -1,17 +1,17 @@
 # EduMatch - Plateforme de Matching Tuteurs/Élèves
 
-![Laravel](https://shields.io)
-![React](https://shields.io)
-![Vite](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![PostgreSQL](https://shields.io)
+[![Laravel](https://shields.io)](https://laravel.com)
+[![React](https://shields.io)](https://react.dev)
+[![Vite](https://shields.io)](https://vite.dev)
+[![Tailwind CSS](https://shields.io)](https://tailwindcss.com)
+[![PostgreSQL](https://shields.io)](https://postgresql.org)
 
 ---
 
 ## 📝 Présentation du projet
 EduMatch (Tuteurly) est une application web Full-Stack conçue pour simplifier la recherche et la réservation de cours particuliers en ligne. Elle permet aux parents de renseigner les besoins de leurs enfants, de découvrir automatiquement les professeurs compatibles avec leurs critères via un algorithme intelligent, et de réserver directement un créneau disponible sans aucune intervention humaine.
 
-**Dernier Commit Validé :** `fa9a771` - *feat: initialisation du prototype edumatch complet avec interface premium et api laravel*  
+**Dernier Commit Validé :  initialisation du prototype edumatch complet avec interface premium et api laravel*  
 **Auteur :** Savadogo Ibrahim
 
 ---
@@ -66,7 +66,7 @@ cd Tuteurly
    ```bash
    php artisan serve
    ```
-   *Le serveur tourne sur `http://127.0.0.1:8000`.*
+   *Le serveur tourne sur `http://127.0.0.1:8000` .*
 
 ### Étape 3 : Configuration du Frontend (React + Vite)
 1. Ouvrez un second terminal à la racine du projet, puis allez dans le dossier frontend :
@@ -81,4 +81,4 @@ cd Tuteurly
    ```bash
    npm run dev
    ```
-   *L'application est consultable sur `http://localhost:5173`.*
+   *L'application est consultable sur `http://localhost:5173` .*
